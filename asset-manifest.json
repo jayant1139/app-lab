@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/app-lab/static/css/main.e25bc9a0.chunk.css",
+    "main.js": "/app-lab/static/js/main.3e08d8d1.chunk.js",
+    "main.js.map": "/app-lab/static/js/main.3e08d8d1.chunk.js.map",
+    "runtime-main.js": "/app-lab/static/js/runtime-main.6e4b93ee.js",
+    "runtime-main.js.map": "/app-lab/static/js/runtime-main.6e4b93ee.js.map",
+    "static/js/2.7ed03e8b.chunk.js": "/app-lab/static/js/2.7ed03e8b.chunk.js",
+    "static/js/2.7ed03e8b.chunk.js.map": "/app-lab/static/js/2.7ed03e8b.chunk.js.map",
+    "static/js/3.dff46875.chunk.js": "/app-lab/static/js/3.dff46875.chunk.js",
+    "static/js/3.dff46875.chunk.js.map": "/app-lab/static/js/3.dff46875.chunk.js.map",
+    "index.html": "/app-lab/index.html",
+    "static/css/main.e25bc9a0.chunk.css.map": "/app-lab/static/css/main.e25bc9a0.chunk.css.map",
+    "static/js/2.7ed03e8b.chunk.js.LICENSE.txt": "/app-lab/static/js/2.7ed03e8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e4b93ee.js",
+    "static/js/2.7ed03e8b.chunk.js",
+    "static/css/main.e25bc9a0.chunk.css",
+    "static/js/main.3e08d8d1.chunk.js"
+  ]
+}
