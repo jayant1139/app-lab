@@ -1,0 +1,26 @@
+
+
+export default function Function() {
+    const moreless = document.getElementById('showmore');
+    const change_text = document.getElementById('changetext');
+    var i = 0;
+  
+    return (
+        
+  function show() {
+
+    if (i == 0) {
+      moreless.style.display = "block";
+      change_text.innerHTML = "Read Less";
+      i = 1;
+    }
+    else {
+      moreless.style.display = "none";
+      change_text.innerHTML = "Read More";
+      i = 0;
+    }
+  
+}
+
+    )
+}
